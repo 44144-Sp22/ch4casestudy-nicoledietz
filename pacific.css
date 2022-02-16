@@ -50,17 +50,17 @@ main{padding-left: 2em;
 padding-left: 2em;
 display: block;
 }
-#homehero {height: 300px;
+#homehero {height: 350px;
 background-image: url(coast.jpg);
 background-size: 100% 100%;
 background-repeat: no-repeat;
 }
-#yurthero {height: 300px;
+#yurthero {height: 315px;
 background-image: url(yurt.jpg);
 background-size: 100% 100%;
 background-repeat: no-repeat;
 }
-#trailhero {height: 300px;
+#trailhero {height: 330px;
 background-image: url(trail.jpg);
 background-size: 100% 100%;
 background-repeat: no-repeat;
